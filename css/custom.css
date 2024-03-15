@@ -1,0 +1,27 @@
+body {
+    margin: 0px!important; padding: 0px!important;
+    font-family: "Trirong", serif;
+}
+.bg-color {
+    background-color: rgb(96, 167, 215);
+}
+
+.body-bg {
+    background-color: rgb(22, 22, 22);
+}
+
+.text-info-1 {
+    --bs-text-opacity: 1;
+    color: rgb(13 202 240 / 66%) !important;
+}
+
+.text-color {
+    color: rgb(96, 167, 215);
+}
+.pad-marg{padding: 0px!important; margin: 0px!important;}
+.btn-pad{padding-left: 2vw; padding-right: 2vw; padding-top: .8vw; padding-bottom: .8vw;}
+.pad-lr{padding-left:10vw ; padding-right:10vw ;}
+
+.footer li { list-style-type: none; display: inline-block; margin: 0px .5vw;}
+.footer li a{ text-decoration: none;}
+
